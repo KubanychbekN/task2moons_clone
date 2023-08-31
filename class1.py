@@ -6,3 +6,5 @@ class Hi(Hello):
     def __str__(self):
         return self.name
 
+# n1 = Hi ('Kuba')
+# print(n1.name)
